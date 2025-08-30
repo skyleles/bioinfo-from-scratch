@@ -1,4 +1,3 @@
-
 # 🧑‍💻 Git Basics — First Steps
 
 ## 🎯 Objetivo
@@ -180,3 +179,14 @@ Al hacer push desde VS Code, aparecerá una ventana para ingresar usuario y cont
 Más información: [GitHub Docs - Authenticating to GitHub](https://docs.github.com/en/get-started/getting-started-with-git/authenticating-to-github)
 
 ---
+
+## Recursos Adicionales
+- [Git Documentation](https://git-scm.com/doc)
+- [GitHub Learning Lab](https://lab.github.com/)
+- [Pro Git Book](https://git-scm.com/book/en/v2)
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+- [Conventional Commits](https://www.conventionalcommits.org/es/v1.0.0/)
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+
+[⬅️ Back to Main README](../../README.md)

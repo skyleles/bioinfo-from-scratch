@@ -18,16 +18,29 @@ No prior knowledge is required. Students only need:
 - Willingness to learn step by step.
 - (Optional but recommended) A Linux-based environment or virtual machine, which will be introduced during the course.
 
+
 ## Suggested Learning Pathway
 
-Getting Started → what is bioinformatics, how to use this repository, setting up the environment.
-First Steps with Git and GitHub → basic commands, creating and sharing repositories.
-Introduction to Linux → navigating the terminal, managing files, running commands.
-Python Fundamentals → variables, loops, functions, and handling simple data.
-Data Handling in Bioinformatics → working with CSV, FASTA, and tabular formats.
-Classical Bioinformatics Tools → sequence alignment, BLAST, annotation basics.
-Omics Data Analysis → introduction to genomics, transcriptomics, and proteomics.
-Networks and Modeling → pathways, metabolic networks, and systems biology concepts.
+1. Getting Started → what is bioinformatics, how to use this repository, setting up the environment.
+2. First Steps with Git and GitHub → basic commands, creating and sharing repositories.
+3. Introduction to Linux → navigating the terminal, managing files, running commands.
+4. Python Fundamentals → variables, loops, functions, and handling simple data.
+5. Data Handling in Bioinformatics → working with CSV, FASTA, and tabular formats.
+6. Classical Bioinformatics Tools → sequence alignment, BLAST, annotation basics.
+7. Omics Data Analysis → introduction to genomics, transcriptomics, and proteomics.
+8. Networks and Modeling → pathways, metabolic networks, and systems biology concepts.
+
+
+## Starting
+
+1. Bioinformatics
+2. [Git Basics](docs/modules/02_git_basics.md)
+3. Linux Basics
+4. Python Basics
+5. Data Handling
+6. Classical Bioinformatics
+7. Omics Data
+8. Networks and Modeling
 
 ## Contributors
 

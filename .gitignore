@@ -1,0 +1,27 @@
+# Hidden system files
+.DS_Store
+
+# Hide idea folder
+.idea/
+*.iml
+
+# Help files
+
+
+# High size files
+
+
+# Matlab files
+*.asv
+
+# R files
+*.Rhistory
+.Rproj.user
+/.quarto/
+
+# Log files
+*log.txt
+
+# hmtl report files
+# *.html
+docs/site_libs/
